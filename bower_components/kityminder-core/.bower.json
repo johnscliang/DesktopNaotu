@@ -1,0 +1,13 @@
+{
+  "name": "kityminder-core",
+  "homepage": "https://github.com/NaoTu/kityminder-core",
+  "_release": "c6aab9f374",
+  "_resolution": {
+    "type": "branch",
+    "branch": "dev",
+    "commit": "c6aab9f374b85a0e279bd3aa6fef720b0c625347"
+  },
+  "_source": "git://github.com/NaoTu/kityminder-core.git",
+  "_target": "dev",
+  "_originalSource": "git://github.com/NaoTu/kityminder-core.git"
+}
